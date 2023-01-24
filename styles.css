@@ -9,6 +9,10 @@ body {
   color: #f6f0ee;
 }
 
+a {
+  color: #fee389;
+}
+
 #logo {
   width: 7rem;
   height: 7rem;
